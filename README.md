@@ -1,3 +1,3 @@
 SICP
 ====
-This repository contains my codes I code while reading SICP. 
+This repository contains my code I coded while reading SICP. 
